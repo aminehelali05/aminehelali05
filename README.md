@@ -2,9 +2,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 
 <!-- Animated About Me -->
-<p align="center" style="font-family: 'Poppins', sans-serif; font-weight:700; font-size:55px; letter-spacing:2px;">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=55&duration=3000&pause=700&color=4ABAF7&center=true&width=600&lines=💫 About Me" />
 </p>
+
 
 
 I’m Amine Helali — a passionate software developer focused on creating modern, fast, and clean applications.  <br><br>I enjoy turning ideas into real, working products with a mix of engineering, creativity, and minimalistic design.<br><br>💡 Always learning, always building.<br>

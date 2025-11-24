@@ -3,8 +3,9 @@
 
 <!-- Animated About Me -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=55&duration=3000&pause=700&color=4ABAF7&center=true&width=600&lines=💫 About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=120&section=header&text=💫%20About%20Me&fontSize=50&fontColor=FFFFFF&font=Poppins&animation=twinkling" />
 </p>
+
 
 
 

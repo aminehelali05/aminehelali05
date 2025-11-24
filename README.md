@@ -1,4 +1,7 @@
-# 💫 About Me:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=120&section=header&text=💫%20About%20Me&fontSize=50&fontColor=FFFFFF&font=Poppins&animation=twinkling" />
+</p>
+
 I’m Amine Helali — a passionate software developer focused on creating modern, fast, and clean applications.  <br><br>I enjoy turning ideas into real, working products with a mix of engineering, creativity, and minimalistic design.<br><br>💡 Always learning, always building.<br>
 
 

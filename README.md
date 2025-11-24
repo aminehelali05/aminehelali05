@@ -1,16 +1,8 @@
-<!-- ABOUT ME SECTION -->
-
-<!-- BIG TITLE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0A0A0A&section=header&text=💫%20About%20Me&fontSize=55&fontColor=FFFFFF&font=Poppins&animation=twinkling" />
-</p>
-
-<br>
-
-<!-- TECH ANIMATION LINE -->
+<!-- ABOUT ME ANIMATED LINE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=700&color=4ABAF7&center=true&vCenter=true&width=700&lines=C%2B%2B+%7C+Linux+%7C+Python+%7C+AI+%7C+SDL+%7C+Qt+%7C+JS+%7C+CSS+%7C+HTML+%7C+React+%7C+Node.js+%7C+MongoDB" />
 </p>
+
 
 
 
